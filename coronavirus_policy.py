@@ -3,7 +3,6 @@ import pandas as pd
 import csv
 import matplotlib.pyplot as plt
 import numpy as np
-from pprint import pprint
 import requests
 
 st.write('# Coronavirus TTX POLICY')
