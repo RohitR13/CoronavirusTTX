@@ -1,3 +1,3 @@
 # CoronaVirus TTX
 
-For VIP
+http://coronattx.herokuapp.com
